@@ -1,3 +1,7 @@
+-- Hector Vido Silva - versão 0.1
+-- Tabela de testes e execução de comando de carga de dados dentro do banco
+-- O arquivo original está presente neste endereço
+-- http://eforexcel.com/wp/wp-content/uploads/2017/07/1500000%20Sales%20Records.zip
 -- DROP TABLE IF EXISTS sales;
 -- CREATE TABLE IF NOT EXISTS sales (
 -- 	id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,

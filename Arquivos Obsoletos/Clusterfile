@@ -10,7 +10,7 @@ vms = {
 
 Vagrant.configure('2') do |config|
 
-  config.vm.box = 'debian/bookworm64'
+  config.vm.box = 'debian/buster64'
   config.vm.box_check_update = false
 
   vms.each do |name, conf|
